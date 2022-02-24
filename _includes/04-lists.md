@@ -1,1 +1,11 @@
-Replace this with a list of your favorite things.
+1. Eat
+   * Junk Food
+   * Chocolate
+3. Love
+    - 🎉
+    - 👧
+    - 🍑
+    - ☮️
+5. Pray
+  * ⛪
+  * 🌟
