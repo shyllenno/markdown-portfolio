@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![Leandro's portrait image](https://lh3.googleusercontent.com/pw/AM-JKLVQnN3r0a59qpxlUAm5KHSklxAdBUEVhvtEuZ7zfzHSm9M8tgmWiQ6xmbgDk36Nnw0VBe8FaJg1_E4QKUJNZQmuwMyqXIMiuJ0eCWjPlFsLgL9TOJ9hDM1y-8pD7qfJOCPLsX9AnPyIvu6DHowkV5sJig=w421-h420-no)
